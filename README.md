@@ -1,22 +1,23 @@
 # Todo List
 
-|   Nom   | Prénom |
-|---------|--------|
-|   Doe   |  Jane  |
+| Nom    | Prénom |
+| ------ | ------ |
+| OUATAR | Hakim  |
 
 Le TP est à réaliser individuellement.
 
 ## Technologies requises
 
 Vous allez avoir besoin des technologies suivantes :
+
 - [Android Studio](https://developer.android.com/studio "Android Studio") ainsi que la [JDK 20+](https://www.oracle.com/fr/java/technologies/downloads "JDK")
 - [NodeJS LTS](https://nodejs.org/fr "NodeJS")
 
 ## Travail à réaliser
 
-Accueil                                                           |  Ajout d'une tâche à réaliser
-:----------------------------------------------------------------:|:-------------------------:
-![First screen](./docs/img/first-screen.png "First screen")  |  ![Second screen](./docs/img/second-screen.png "First screen")
+|                           Accueil                           |                 Ajout d'une tâche à réaliser                  |
+| :---------------------------------------------------------: | :-----------------------------------------------------------: |
+| ![First screen](./docs/img/first-screen.png "First screen") | ![Second screen](./docs/img/second-screen.png "First screen") |
 
 Le but de cette application est de créer un gestionnaire de tâches à réaliser (TAR).
 

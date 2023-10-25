@@ -10,7 +10,7 @@ import {
 import * as SecureStore from "expo-secure-store";
 import { useFocusEffect } from "@react-navigation/native";
 import { Swipeable } from "react-native-gesture-handler";
-
+import { Header } from "./Header";
 export default function Home({ navigation }) {
   const [todos, setTodos] = useState([]);
 
